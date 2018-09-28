@@ -238,3 +238,5 @@ animation: mBoxAni 2s infinite linear;}
 	0%,100%{transform: translateY(0);}
 	50%{transform: translateY(-20px);}
 }
+
+.tips{position: fixed;left: 230px;right:0;bottom: 5px;text-align: center;}
